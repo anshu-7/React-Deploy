@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Alabama, Georgia arrive in frigid Indianapolis ahead of College Football Playoff Championship Game",
+      "description": "Alabama and Georgia arrived Friday night in Indianapolis, where the frigid temperatures had Crimson Tide coach Nick Saban admitting, \"It's been pretty cold in Tuscaloosa the last day or two but not this cold.\"",
+      "url": "http://espn.go.com/college-football/story/_/id/33015873/alabama-georgia-arrive-frigid-indianapolis-ahead-college-football-playoff-championship-game",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0108%2Fr959082_2_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-01-08T02:42:00Z",
+      "content": "INDIANAPOLIS -- Coach Nick Saban walked off Alabama's team plane Friday night to a cold, harsh reality.\r\nWhen he returns to the airport for the final time this season, the Crimson Tide will either be… [+3090 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Nick Saban, Alabama winning game of 'Portal Kombat'",
+      "description": "No matter how modern college football changes, Nick Saban simply adapts and dominates at Alabama, RJ Young writes.",
+      "url": "http://www.foxsports.com/stories/college-football/nick-saban-alabama-winning-game-of-portal-kombat",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1408/814/01.06.22_Bama-UGA-and-the-transfer-portal_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-07T22:36:10Z",
+      "content": "By RJ Young\r\nFOX Sports College Football Writer\r\nThe national championship Monday night features the two most talented teams in college football. \r\nThats not just me talking. Thats the 140 four- and … [+6172 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Salah and Kerr on Best Fifa shortlists",
+      "description": "Liverpool forward Mohamed Salah and Chelsea striker Sam Kerr are among the Best Fifa Football Awards' player of the year nominees.",
+      "url": "http://www.bbc.co.uk/sport/football/59913891",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13F1B/production/_122619618_-53c95b8d-2d48-4a31-ab82-d5b4ead632b5.png",
+      "publishedAt": "2022-01-07T15:52:28.5625668Z",
+      "content": "Mohamed Salah and Sam Kerr are among the nominees for the Best Fifa player of the year awards\r\nLiverpool forward Mohamed Salah and Chelsea striker Sam Kerr are among the Best Fifa Football Awards' pl… [+1031 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
